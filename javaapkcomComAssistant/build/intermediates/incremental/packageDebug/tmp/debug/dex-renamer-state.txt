@@ -1,0 +1,7 @@
+#Thu Mar 21 14:42:15 GMT+08:00 2019
+base.0=E\:\\workspace\\ComAssistant1\\javaapkcomComAssistant\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\workspace\\ComAssistant1\\javaapkcomComAssistant\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out

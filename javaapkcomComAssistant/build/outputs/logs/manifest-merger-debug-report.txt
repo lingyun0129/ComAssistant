@@ -1,0 +1,102 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4a6077d0d34535c3fbf40e808aa76fe2\AndroidManifest.xml:2:1-11:12
+INJECTED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.INTERNET
+ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:15:22-64
+application
+ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:17:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4a6077d0d34535c3fbf40e808aa76fe2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4a6077d0d34535c3fbf40e808aa76fe2\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:18:9-45
+activity#com.bjw.ComAssistant.FirstLaunchActivity
+ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:20:19-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:24:27-74
+activity#com.bjw.ComAssistant.ComAssistantActivity
+ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:30:13-45
+	android:configChanges
+		ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:29:13-57
+	android:name
+		ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml:28:13-49
+uses-sdk
+INJECTED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml
+INJECTED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4a6077d0d34535c3fbf40e808aa76fe2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4a6077d0d34535c3fbf40e808aa76fe2\AndroidManifest.xml:5:5-7:41
+INJECTED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml
+INJECTED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml
+		ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml
+		ADDED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml
+		INJECTED from E:\workspace\ComAssistant1\javaapkcomComAssistant\src\main\AndroidManifest.xml

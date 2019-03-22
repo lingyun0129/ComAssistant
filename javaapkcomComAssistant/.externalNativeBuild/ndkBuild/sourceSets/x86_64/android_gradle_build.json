@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "E:\\workspace\\ComAssistant1\\javaapkcomComAssistant\\src\\main\\jni\\Android.mk",
+    "E:\\workspace\\ComAssistant1\\javaapkcomComAssistant\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "H:\\sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\workspace\\ComAssistant1\\javaapkcomComAssistant\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\workspace\\ComAssistant1\\javaapkcomComAssistant\\src\\main\\jni\\Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-23 NDK_OUT\u003dE:/workspace/ComAssistant1/javaapkcomComAssistant/build/intermediates/ndkBuild/sourceSets/obj NDK_LIBS_OUT\u003dE:\\workspace\\ComAssistant1\\javaapkcomComAssistant\\build\\intermediates\\ndkBuild\\sourceSets\\lib clean"
+  ],
+  "libraries": {
+    "serial_port-sourceSets-x86_64": {
+      "buildCommand": "H:\\sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\workspace\\ComAssistant1\\javaapkcomComAssistant\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\workspace\\ComAssistant1\\javaapkcomComAssistant\\src\\main\\jni\\Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-23 NDK_OUT\u003dE:/workspace/ComAssistant1/javaapkcomComAssistant/build/intermediates/ndkBuild/sourceSets/obj NDK_LIBS_OUT\u003dE:\\workspace\\ComAssistant1\\javaapkcomComAssistant\\build\\intermediates\\ndkBuild\\sourceSets\\lib E:/workspace/ComAssistant1/javaapkcomComAssistant/build/intermediates/ndkBuild/sourceSets/obj/local/x86_64/libserial_port.so",
+      "toolchain": "toolchain-x86_64",
+      "abi": "x86_64",
+      "artifactName": "serial_port",
+      "files": [
+        {
+          "src": "E:\\workspace\\ComAssistant1\\javaapkcomComAssistant\\src\\main\\jni\\SerialPort.c",
+          "flags": "-target x86_64-none-linux-android23 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot H:/sdk/ndk-bundle/build//../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -fno-addrsig -fPIC -O2 -DNDEBUG -IE:/workspace/ComAssistant1/javaapkcomComAssistant/src/main/jni -DANDROID -Wa,--noexecstack -Wformat -Werror\u003dformat-security"
+        }
+      ],
+      "output": "E:\\workspace\\ComAssistant1\\javaapkcomComAssistant\\build\\intermediates\\ndkBuild\\sourceSets\\obj\\local\\x86_64\\libserial_port.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-x86_64": {
+      "cCompilerExecutable": "H:\\sdk\\ndk-bundle\\build\\..\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

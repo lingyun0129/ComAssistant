@@ -1,0 +1,1 @@
+make: `E:/workspace/ComAssistant1/javaapkcomComAssistant/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libserial_port.so' is up to date.

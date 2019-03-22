@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "E:\\workspace\\ComAssistant1\\javaapkcomComAssistant\\src\\main\\jni\\Android.mk",
+    "E:\\workspace\\ComAssistant1\\javaapkcomComAssistant\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "H:\\sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\workspace\\ComAssistant1\\javaapkcomComAssistant\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\workspace\\ComAssistant1\\javaapkcomComAssistant\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-23 NDK_OUT\u003dE:/workspace/ComAssistant1/javaapkcomComAssistant/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dE:\\workspace\\ComAssistant1\\javaapkcomComAssistant\\build\\intermediates\\ndkBuild\\debug\\lib clean"
+  ],
+  "libraries": {
+    "serial_port-debug-armeabi-v7a": {
+      "buildCommand": "H:\\sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\workspace\\ComAssistant1\\javaapkcomComAssistant\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dE:\\workspace\\ComAssistant1\\javaapkcomComAssistant\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-23 NDK_OUT\u003dE:/workspace/ComAssistant1/javaapkcomComAssistant/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dE:\\workspace\\ComAssistant1\\javaapkcomComAssistant\\build\\intermediates\\ndkBuild\\debug\\lib E:/workspace/ComAssistant1/javaapkcomComAssistant/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libserial_port.so",
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "serial_port",
+      "files": [
+        {
+          "src": "E:\\workspace\\ComAssistant1\\javaapkcomComAssistant\\src\\main\\jni\\SerialPort.c",
+          "flags": "-target armv7-none-linux-androideabi23 -fdata-sections -ffunction-sections -fstack-protector-strong -funwind-tables -no-canonical-prefixes --sysroot H:/sdk/ndk-bundle/build//../toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -Wno-invalid-command-line-argument -Wno-unused-command-line-argument -fno-addrsig -fpic -mfpu\u003dvfpv3-d16 -march\u003darmv7-a -mthumb -O0 -UNDEBUG -fno-limit-debug-info -mfpu\u003dneon -IE:/workspace/ComAssistant1/javaapkcomComAssistant/src/main/jni -DANDROID -Wa,--noexecstack -Wformat -Werror\u003dformat-security"
+        }
+      ],
+      "output": "E:\\workspace\\ComAssistant1\\javaapkcomComAssistant\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libserial_port.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-armeabi-v7a": {
+      "cCompilerExecutable": "H:\\sdk\\ndk-bundle\\build\\..\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}
